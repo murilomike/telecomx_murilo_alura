@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Relatório Final — Desafio TelecomX
 ## Resolução do Challenge Telecom X, desenvolvido pelo Murilo Souza, estudante de Ciência de Dados pela Oracle, na Alura.
 
@@ -80,4 +80,3 @@ Sugiro como próximas ações:
 1. Desenvolver um **modelo preditivo** com as variáveis identificadas  
 2. Criar **programas de fidelidade** para perfis de alto risco  
 3. Implementar um **dashboard de monitoramento** contínuo  
-```
